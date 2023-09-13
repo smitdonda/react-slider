@@ -1,6 +1,6 @@
 import React from "react";
 import Carousel from "react-bootstrap/Carousel";
-import jsonCarousel from "./Carousels.json";
+import data from "./Carousels.json";
 
 function ReactCarousels() {
   return (
@@ -8,7 +8,7 @@ function ReactCarousels() {
       <div>
         <h3 className="my-3">Carousel</h3>
         <Carousel className="carousel-main" touch={true}>
-          {jsonCarousel.map(({ image, altName }) => {
+          {data.map(({ image, altName }) => {
             return (
               <Carousel.Item>
                 <img
