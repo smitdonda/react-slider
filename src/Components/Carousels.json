@@ -1,0 +1,18 @@
+[
+  {
+    "image": "https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547_640.jpg",
+    "altName": "ocean"
+  },
+  {
+    "image": "https://www.freecodecamp.org/news/content/images/2022/09/jonatan-pie-3l3RwQdHRHg-unsplash.jpg",
+    "altName": "jonatan"
+  },
+  {
+    "image": "https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?cs=srgb&dl=pexels-anjana-c-674010.jpg&fm=jpg",
+    "altName": "anjana"
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-kK7Fxm7U9o0/YN0bSIwSLvI/AAAAAAAACFk/aF4EI7XU_ashruTzTIpifBfNzb4thUivACLcBGAsYHQ/s1280/222.jpg",
+    "altName": "moon-image"
+  }
+]
