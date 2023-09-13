@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `git clone https://github.com/smitdonda/react-slider.git`
+
 ### `npm install`
 
 ### `npm start`
